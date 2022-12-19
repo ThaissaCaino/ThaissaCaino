@@ -1,7 +1,6 @@
 Create README.md
 - 👋 Hi, I’m @ThaissaCaino
 - 👀 I’m interested in solve problems
-- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on any team who want me
 - 📫 How to reach me: almeida.c.thaissa@gmail.com
 
